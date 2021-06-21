@@ -22,6 +22,8 @@
 
 ![image](https://user-images.githubusercontent.com/17243618/122797333-60221480-d28d-11eb-96a5-1b57ffa140ef.png)
 
+***
+
 **c.** In the pop-up window, click ``Environment Variables``.
 
 ![image](https://user-images.githubusercontent.com/17243618/122798162-446b3e00-d28e-11eb-8c53-dadbb7c6214f.png)
@@ -104,7 +106,7 @@ In addition, these files will also now appear in the root:
 
 **Note 1**: If you get an error with a mention of a file called ``libwinpthread-1.dll`` (or something similar), search Google for a 64-bit version of this file and add it to the root.
 
-**Note 2**: If you receive several compile warnings during the build process, see the note in the [first step](1-download-and-install-devkitpro). 
+**Note 2**: If you receive several compile warnings during the build process, see the note in the [first step](#1-download-and-install-devkitpro). 
 
 ## 9. Read the [documentation](https://github.com/Skeli789/Complete-Fire-Red-Upgrade/blob/master/CFRU%20Documentation.pdf) thoroughly.
 
