@@ -113,4 +113,5 @@ In addition, these files will also now appear in the root:
 Once you've done that, you're good to go! Enjoy using the Complete FireRed Upgrade!
 
 ## Other Links
-If after following this tutorial you still are unable to use the CFRU, try watching [this video](https://www.youtube.com/watch?v=542jj04YZPE) instead.
+* If after following this tutorial you still are unable to use the CFRU, try watching [this video](https://www.youtube.com/watch?v=542jj04YZPE) instead.
+* If you have further questions and have not read the documentation, please see the [FAQ here](https://www.pokecommunity.com/showthread.php?t=425447).
