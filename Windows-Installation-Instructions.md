@@ -115,3 +115,4 @@ Once you've done that, you're good to go! Enjoy using the Complete FireRed Upgra
 ## Other Links
 * If after following this tutorial you still are unable to use the CFRU, try watching [this video](https://www.youtube.com/watch?v=542jj04YZPE) instead.
 * If you have further questions and have not read the documentation, please see the [FAQ here](https://www.pokecommunity.com/showthread.php?t=425447).
+* See [this guide](https://www.pokecommunity.com/showthread.php?t=443233) for a tutorial if you need help getting things set up once the engine is built.
